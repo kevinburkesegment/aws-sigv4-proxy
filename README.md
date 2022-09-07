@@ -2,7 +2,7 @@
 
 The AWS SigV4 Proxy will sign incoming HTTP requests and forward them to the host specified in the `Host` header.
 
-You can strip out arbirtary headers from the incoming request by using the -s option.
+You can strip out arbitrary headers from the incoming request by using the -s option.
 
 ## Getting Started
 
